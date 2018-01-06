@@ -5,3 +5,7 @@ db.json
 node_modules/
 public/
 .deploy*/
+.idea/modules.xml
+.idea/tsukie.iml
+.idea/vcs.xml
+.idea/workspace.xml
