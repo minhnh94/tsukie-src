@@ -7,7 +7,10 @@ title: Tsukie blog - Treasure every moment
 subtitle:
 description: \"The ending isn't any more important than any of the moments leading to it\". That's why we created this blog, to put all memories we experienced into visible shapes, to share our experiences, our point of views, or sometimes, just anything that pops out of our mind.
 author: Tsukie Studio. All rights reserved
-language: en
+language:
+- en
+- vi
+- ja
 timezone:
 
 # URL
@@ -28,7 +31,7 @@ i18n_dir: :lang
 skip_render:
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :lang/:title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
