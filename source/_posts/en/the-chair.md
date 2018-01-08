@@ -4,12 +4,8 @@ lang: en
 category: Lifestyle
 date: 2018-01-07 23:56:30
 tags: 
-- life
-- story
-- feeling
-- touch
-- heart
-- beautiful
+- story of life
+- life philosophy
 thumbnail: /en/the-chair/thumbnail.png
 ---
 
@@ -28,3 +24,5 @@ Because, while bathed in unjustness, the world is still embracing many beautiful
 {% asset_img pic7.jpg %}
 {% asset_img pic8.jpg %}
 {% asset_img pic9.jpg %}
+
+<p style="text-align:right">Article written by *Kaito Yuuki*</p><p style="text-align:right">Images from *projectTIGER devianart*</p>
