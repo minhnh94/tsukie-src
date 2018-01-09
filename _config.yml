@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Tsukie blog - Treasure every moment
+title: Tsukie - Treasure every moment
 subtitle:
-description: tsukie, blog, blogger, japan, japanese, nhật bản, nhật, lifestyle, technology, cuộc sống, trải nghiệm
+description: Tsukie - Blog from Tsukie studio. Written articles about lifestyles, technologies (mostly software programming related), travel (contents mostly Japan related), entertainment (anime, game, etc).
 author: Tsukie Studio. All rights reserved
 language: [en,vi,ja]
 timezone:
@@ -73,6 +73,18 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: hueman
+
+robotstxt:
+  useragent: "*"
+  allow:
+    - /
+    - /archives/
+    - /categories/
+    - /tags/
+    - /en/
+    - /ja/
+    - /vi/
+  sitemap: /sitemap.xml
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
