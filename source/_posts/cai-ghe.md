@@ -4,12 +4,8 @@ lang: vi
 category: Lifestyle
 date: 2018-01-08 01:03:30
 tags: 
-- life
-- story
-- feeling
-- touch
-- heart
-- beautiful
+- story of life
+- life philosophy
 thumbnail: /vi/cai-ghe/thumbnail.png
 ---
 
