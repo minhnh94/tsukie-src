@@ -1,12 +1,12 @@
 ---
 title: The chair
 lang: en
-category: Lifestyle
+category: lifestyle
 date: 2018-01-07 23:56:30
 tags: 
 - story of life
 - life philosophy
-thumbnail: /en/the-chair/thumbnail.png
+thumbnail: /en/lifestyle/the-chair/thumbnail.png
 ---
 
 When we were kids, we often saw the world through our pink goggles. Making friends, going out... everything seemed so carefree at that time. But, at the time we grew up, things changed like a flash of light. The society connects its people with intention and calculation. Gradually, we became more and more cautious, paranoid, without us even noticing it. And by the time, we are more harsh at diagnosing and judging others' every action.

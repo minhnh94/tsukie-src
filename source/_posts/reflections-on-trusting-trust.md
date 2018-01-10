@@ -2,11 +2,11 @@
 title: '"Reflections on trusting trust"'
 lang: en
 date: 2018-01-08 15:26:30
-category: Technologies
+category: technologies
 tags:
 - software development
 - software industry experience
-thumbnail: /en/reflections-on-trusting-trust/thumbnail.jpg
+thumbnail: /en/technologies/reflections-on-trusting-trust/thumbnail.jpg
 ---
 
 I came across this topic “Thompson, Kenneth Lane – Reflections on trusting trust” (pdf link: http://vxer.org/lib/pdf/Reflections%20on%20Trusting%20Trust.pdf ) on an answer while I was reading quora. I can’t find that answer now, but the writer was talking about how he was having a hard time fixing a bunch of “out of nowhere” bugs on the deadline of his assignment, and then realized later that those were not his bugs – the problem was caused by the new version of the third-party software he was using.

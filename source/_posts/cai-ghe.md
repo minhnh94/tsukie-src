@@ -1,12 +1,12 @@
 ---
 title: Cái ghế
 lang: vi
-category: Lifestyle
+category: lifestyle
 date: 2018-01-08 01:03:30
 tags: 
 - story of life
 - life philosophy
-thumbnail: /vi/cai-ghe/thumbnail.png
+thumbnail: /vi/lifestyle/cai-ghe/thumbnail.png
 ---
 
 When we were kids, we often saw the world through our pink goggles. Making friends, going out... everything seemed so carefree at that time. But, at the time we grew up, things changed like a flash of light. The society connects its people with intention and calculation. Gradually, we became more and more cautious, paranoid, without us even noticing it. And by the time, we are more harsh at diagnosing and judging others' every action.
