@@ -1,7 +1,7 @@
 ---
 title: Cái ghế
 lang: vi
-category: lifestyle
+category: cuộc sống
 date: 2018-01-08 01:03:30
 tags: 
 - story of life
