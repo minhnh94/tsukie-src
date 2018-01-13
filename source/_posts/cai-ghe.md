@@ -10,6 +10,8 @@ thumbnail: /vi/cuoc-song/cai-ghe/thumbnail.png
 summary: Một câu chuyện ngắn, nhẹ nhàng như một ngọn gió, khẽ nhắc nhở mọi người rằng, thế giới không chỉ toàn những điều tiêu cực.
 ---
 
+**Article available in [English](https://tsukie.com/en/lifestyle/the-chair/) | [Tiếng Việt](https://tsukie.com/vi/cuoc-song/cai-ghe/)**
+
 When we were kids, we often saw the world through our pink goggles. Making friends, going out... everything seemed so carefree at that time. But, at the time we grew up, things changed like a flash of light. The society connects its people with intention and calculation. Gradually, we became more and more cautious, paranoid, without us even noticing it. And by the time, we are more harsh at diagnosing and judging others' every action.
 
 Hopefully, the story below can somehow cure a part of thorns of doubt in us. There are still people who communicate with others with pure mind, they just need a little more time to prove themselves.
@@ -27,3 +29,5 @@ Khi chúng ta còn nhỏ, mọi thứ đều được nhìn qua một lăng kín
 {% asset_img pic7.png %}
 {% asset_img pic8.png %}
 {% asset_img pic9.png %}
+
+<p style="text-align:right">Bài viết bởi *Kaito Yuuki*</p><p style="text-align:right">Truyện tranh từ *projectTIGER devianart*</p>
