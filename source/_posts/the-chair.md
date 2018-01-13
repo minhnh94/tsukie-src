@@ -1,12 +1,14 @@
 ---
 title: The chair
 lang: en
-categories: lifestyle
+categories:
+- lifestyle
 date: 2018-01-07 23:56:30
 tags: 
 - story of life
 - life philosophy
 thumbnail: /en/lifestyle/the-chair/thumbnail.png
+summary: A short and sweet story, gently touches people's feeling and reminds them that the world is not only filled by negative thoughts and intentions. 
 ---
 
 **Article available in [English](https://tsukie.com/en/lifestyle/the-chair/) | [Tiếng Việt](https://tsukie.com/vi/cuoc-song/cai-ghe/)**
