@@ -2,7 +2,7 @@
 title: '"Reflections on trusting trust"'
 lang: en
 date: 2018-01-08 15:26:30
-category: technologies
+categories: technologies
 tags:
 - software development
 - software industry experience

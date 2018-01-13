@@ -1,7 +1,7 @@
 ---
 title: The chair
 lang: en
-category: lifestyle
+categories: lifestyle
 date: 2018-01-07 23:56:30
 tags: 
 - story of life
