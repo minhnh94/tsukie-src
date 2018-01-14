@@ -12,7 +12,7 @@ thumbnail: /en/lifestyle/the-chair/thumbnail.png
 summary: A short and sweet story, gently touches people's feeling and reminds them that the world is not only filled by negative thoughts and intentions. 
 ---
 
-**Article available in [English](https://tsukie.com/en/lifestyle/the-chair/) | [Tiếng Việt](https://tsukie.com/vi/cuoc-song/cai-ghe/)**
+**Article available in [English](https://tsukie.com/en/lifestyle/the-chair/) | [Tiếng Việt](https://tsukie.com/vi/cuoc-song/cai-ghe/) | [日本語](https://tsukie.com/ja/jinsei-seikatsu/isu-monogatari/)**
 
 Have we ever questioned ourself that since when we gradually became more and more cautious, paranoid to others' behaviours without even noticing it. Since when we hardened our shields and made them face the life, in order to protect our fragile hearts from the tide of the life.  
 
