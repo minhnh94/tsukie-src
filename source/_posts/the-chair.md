@@ -4,6 +4,7 @@ lang: en
 categories:
 - lifestyle
 date: 2018-01-07 23:56:30
+updated: 2018-01-14 01:06:30
 tags: 
 - story of life
 - life philosophy
@@ -13,9 +14,9 @@ summary: A short and sweet story, gently touches people's feeling and reminds th
 
 **Article available in [English](https://tsukie.com/en/lifestyle/the-chair/) | [Tiếng Việt](https://tsukie.com/vi/cuoc-song/cai-ghe/)**
 
-When we were kids, we often saw the world through our pink goggles. Making friends, going out... everything seemed so carefree at that time. But, at the time we grew up, things changed like a flash of light. The society connects its people with intention and calculation. Gradually, we became more and more cautious, paranoid, without us even noticing it. And by the time, we are more harsh at diagnosing and judging others' every action.
+Have we ever questioned ourself that since when we gradually became more and more cautious, paranoid to others' behaviours without even noticing it. Since when we hardened our shields and made them face the life, in order to protect our fragile hearts from the tide of the life.  
 
-Hopefully, the story below can somehow cure a part of thorns of doubt in us. There are still people who communicate with others with pure mind, they just need a little more time to prove themselves.
+While surfing on the Internet this short comic below caught my glimpse. Maybe everyone can see a part of ourselves in this short comic. Hopefully, the story can somehow cure a part of thorns of doubt in us.
 
 Because, while bathed in unjustness, the world is still embracing many beautiful moments, waiting to be unveiled.
 

@@ -4,6 +4,7 @@ lang: vi
 categories:
 - cuộc sống
 date: 2018-01-08 01:03:30
+updated: 2018-01-14 01:06:30
 tags: 
 - story of life
 - life philosophy
@@ -13,13 +14,11 @@ summary: Một câu chuyện ngắn, nhẹ nhàng như một ngọn gió, khẽ 
 
 **Article available in [English](https://tsukie.com/en/lifestyle/the-chair/) | [Tiếng Việt](https://tsukie.com/vi/cuoc-song/cai-ghe/)**
 
-When we were kids, we often saw the world through our pink goggles. Making friends, going out... everything seemed so carefree at that time. But, at the time we grew up, things changed like a flash of light. The society connects its people with intention and calculation. Gradually, we became more and more cautious, paranoid, without us even noticing it. And by the time, we are more harsh at diagnosing and judging others' every action.
+Có bao giờ ta tự hỏi mình rằng, từ lúc nào thì ta trở nên không còn dễ dàng tin vào người khác nữa. Từ lúc nào ta tự khép mình vào vỏ bọc để ngăn cản những tác động của cuộc đời làm tổn thương đến ta nữa.
 
-Hopefully, the story below can somehow cure a part of thorns of doubt in us. There are still people who communicate with others with pure mind, they just need a little more time to prove themselves.
+Trong mẩu truyện ngắn tình cờ lướt qua ở trên mạng dưới đây, ta có thể nhìn thấy một phần hình ảnh của mình trong nhân vật của truyện. Hi vọng rằng, nó sẽ giúp suy nghĩ trong mỗi người chúng ta bớt tàn nhẫn hơn với cuộc đời.
 
-Because, while bathed in unjustness, the world is still embracing many beautiful moments, waiting to be unveiled.
-
-Khi chúng ta còn nhỏ, mọi thứ đều được nhìn qua một lăng kính màu hồng.
+Bởi vì, dù sao cuộc đời vẫn còn rất nhiều điều tốt đẹp để hi vọng.
 
 {% asset_img pic1.jpg %}
 {% asset_img pic2.jpg %}
