@@ -88,7 +88,7 @@ robotstxt:
     - /en/
     - /ja/
     - /vi/
-  sitemap: /sitemap.xml
+  sitemap: https://tsukie.com/sitemap.xml
 
 sitemap:
   path: sitemap.xml
