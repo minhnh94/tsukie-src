@@ -94,6 +94,10 @@ sitemap:
   path: sitemap.xml
   template: ./sitemap_template.xml
 
+image_caption:
+  enable: true #false to disable
+  class_name:
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
