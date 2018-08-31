@@ -11,3 +11,5 @@ public/
 .idea/workspace.xml
 themes/
 source/_posts
+.idea/misc.xml
+.idea/tsukie-src.iml
