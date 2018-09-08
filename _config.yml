@@ -74,6 +74,22 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: hueman
 
+html_minifier:
+  enable: false
+
+css_minifier:
+  enable: true
+  silent: false
+  exclude:
+  - '*.min.css'
+
+js_minifier:
+  enable: true
+  mangle: false
+  silent: false
+  exclude:
+  - '*.min.js'
+
 robotstxt:
   useragent: "*"
   disallow:
