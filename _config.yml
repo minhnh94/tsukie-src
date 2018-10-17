@@ -79,16 +79,20 @@ html_minifier:
 
 css_minifier:
   enable: true
-  silent: false
+  silent: true
   exclude:
   - '*.min.css'
 
 js_minifier:
   enable: true
   mangle: false
-  silent: false
+  silent: true
   exclude:
   - '*.min.js'
+
+image_minifier:
+  enable: false
+  silent: true
 
 robotstxt:
   useragent: "*"
