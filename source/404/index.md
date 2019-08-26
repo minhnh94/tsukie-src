@@ -1,8 +1,4 @@
 ---
-layout: page
-lang: en,vi,ja
-title: 404 Page Not Found
-comments: false
 permalink: /404.html
 ---
 
